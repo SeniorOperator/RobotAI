@@ -1,0 +1,39 @@
+robot.booted = true
+
+
+when packaging tracked do
+  sendnotify("creation lol now DIE")
+
+task.wait(0.5)
+local robot = velocity.x velocity.y
+local fast  = speed.100
+if task.completed do
+    object:sendserverfunction(moveevent)
+      moveevent = instance.new("Event")
+      sendserverevent("Heart") == courseoffunction
+      if object.move == true then do
+      object:move(false)
+      PullEvent = Move:Fire()
+ end
+ 
+ If Event:IsFired do
+  pickup:scanner(scan.object.room) setfunction livingroom
+  awaittask(scanning)
+  when taskiscompleted then
+     voice:say("Finished Scanning, Awaiting Instructions")
+ end
+ 
+ --- Velocity Check!
+ If Velocity = fast do
+ slowdown()
+ if sleeping function Velocity Check 
+ if VelocityCheck == error report()
+ sentence.ban()
+ if sentence.ban == true print("Coding Mistake! Sending Report to Github/SeniorOperator")
+ sentence.fire()
+ 
+ if object:isnearfire() do
+  trackfor(water)
+  if water found
+    object.pickup(water)
+    end
